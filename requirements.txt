@@ -1,0 +1,9 @@
+tensorflow
+streamlit
+gensim
+numpy
+nltk
+scikit-learn
+keras
+
+
